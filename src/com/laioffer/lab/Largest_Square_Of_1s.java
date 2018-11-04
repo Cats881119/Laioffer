@@ -1,7 +1,7 @@
 package com.laioffer.lab;
 
 /**
- * Created by Ruoyu on 2016/10/29.
+ * Created by Ruoyu on 2016/10/29.  this one cant AC
  */
 public class Largest_Square_Of_1s {
 
